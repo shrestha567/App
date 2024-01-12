@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1010822307270",
+    "project_id": "coffee-app-b76b2",
+    "storage_bucket": "coffee-app-b76b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010822307270:android:14f8ce038b0386f57d66c7",
+        "android_client_info": {
+          "package_name": "com.reactnats"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKwYOv22egzbI4ohqja2XqbV9eFankXBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
